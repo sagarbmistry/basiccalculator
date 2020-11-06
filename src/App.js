@@ -24,9 +24,9 @@ const Layout = withRouter(({ location }) => {
     <Router>
           <main  id="container">
             <Switch>
-              <Route exact path="/" component={Home}/>
+              <Route exact path="/basiccalculator" component={Home}/>
               <Route exact path="/">
-                <Redirect to="/"/>
+                <Redirect to="/basiccalculator"/>
               </Route>
               <Route path="" component={NotFound} />
             </Switch>

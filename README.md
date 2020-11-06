@@ -7,6 +7,12 @@ This Project is a Basic Calculator ReactJS Project which demonstrates the follow
 4. Using Bootstrap along with React
 5. Using Basic Routing in React
 
+
+## Live Application URL
+
+### https://aditya-sridhar.github.io/simple-reactjs-app
+This URL has the application deployed in
+
 ## Prerequisites
 ### Install Node JS
 Refer to https://nodejs.org/en/ to install nodejs
