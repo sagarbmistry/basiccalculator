@@ -10,7 +10,7 @@ This Project is a Basic Calculator ReactJS Project which demonstrates the follow
 
 ## Live Application URL
 
-### https://aditya-sridhar.github.io/simple-reactjs-app
+### https://sagarbmistry.github.io/basiccalculator
 This URL has the application deployed in
 
 ## Prerequisites
